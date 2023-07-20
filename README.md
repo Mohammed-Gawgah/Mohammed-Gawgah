@@ -1,13 +1,14 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Mohammed Gawgah</h1>
 <h3 align="center">A passionate software developer from Yemen</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-gawgah" alt="mohammed-gawgah" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby,Git,Android**
+
+- 🌱 I’m currently learning **Ruby, Git, Android**
 
 - 📫 How to reach me **eng.mohammed.gawgah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FnlUsSsOfTRDE5Jy66BqZ0-yWZ1wzDmh/view?usp=drivesdk](https://drive.google.com/file/d/1FnlUsSsOfTRDE5Jy66BqZ0-yWZ1wzDmh/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1FnlUsSsOfTRDE5Jy66BqZ0-yWZ1wzDmh/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
